@@ -1,0 +1,6 @@
+server:
+  port: 1985
+
+spring:
+  application:
+    name: jekins-test

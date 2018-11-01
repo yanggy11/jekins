@@ -30,3 +30,4 @@ mvnw
 target/**
 .idea/**
 .mvn/**
+.DS_Store

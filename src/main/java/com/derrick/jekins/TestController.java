@@ -14,4 +14,8 @@ public class TestController {
     public String testJenkins() {
         return "jenkins deployed!";
     }
+    @GetMapping(value = "/test")
+    public String testJenkins1() {
+        return "jenkins deployed!";
+    }
 }
